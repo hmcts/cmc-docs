@@ -1,1 +1,1 @@
-# cmc-docs
+# CMC
